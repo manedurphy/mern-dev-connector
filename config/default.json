@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://manedurphy:dane123@dmcloud.iohoj.mongodb.net/DMCloud?retryWrites=true&w=majority",
+  "jwtSecret": "mySecretToken",
+  "githubClientID": "d3e9fdbff9a1fee5f448",
+  "githubClientSecret": "909af495f52593667ff8f516214acf761a0b1df7"
+}
